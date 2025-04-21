@@ -1,0 +1,22 @@
+Model,	HumanEval (0 shot)
+Claude 3.5 Sonnet,	93.7%
+GPT-4o,	90.2%
+AWS Nova Pro,	89%
+Llama 3.1 405b,	89%
+Grok-2,	88.4%
+Claude 3.5 Haiku,	88.1%
+Qwen2.5-70b,	88%
+GPT-4o mini,	87.2%
+GPT-Turbo,	87.1%
+GPT-4,	86.6%
+Grok-2 mini,	85.7%
+AWS Nova Lite,	85.4%
+Claude 3 Opus,	84.9%
+OpenAI o1-mini,	82.6%
+AWS Nova Micro,	81.1%
+Llama 3.3 70b,	80.5%
+Llama 3.1 70b,	80.5%
+Llama 3.1 8b,	72.6%
+Gemini 1.5 Pro,	71.9%
+Gemini 1.5 Flash,	71.5%
+GPT-3.5 Turbo,	68%
